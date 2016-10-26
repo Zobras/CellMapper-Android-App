@@ -84,7 +84,7 @@
     <string name="activity_upload_total_uploaded_data_points">Totale punti caricati:</string>
     <string name="activity_upload_total_points_to_upload">Totale punti da caricare:</string>
     <string name="activity_upload_date_of_last_point">Data dell'ultimo caricamento dei punti:</string>
-    <string name="activity_upload_distinct_cells_found">Stazioni distinte trovate:</string>
+    <string name="activity_upload_distinct_cells_found">Celle distinte trovate:</string>
     <string name="activity_upload_uploading_data_points">Caricamento %,d punti</string>
     <string name="activity_upload_done">Finito</string>
     <string name="activity_upload_reupload_confirm">Sei siuro di voler ri-caricare i punti compresi tra:\n%1$s\ne\n %2$s\n?\nVerranno ri-caricati  %3$d punti.</string>
