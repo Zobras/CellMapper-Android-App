@@ -3,248 +3,247 @@
 
     <string name="banner_ad_unit_id">ca-app-pub-8112789878571769/4698215898</string>
     <string name="app_name">CellMapper</string>
-    <string name="menu_changeProvider">Change Provider</string>
-    <string name="title_activity_main">Tower Map</string>
-    <string name="title_activity_upload">Upload Data</string>
-    <string name="loading">Loading...</string>
+    <string name="menu_changeProvider">Promijeni operatera</string>
+    <string name="title_activity_main">Karta Odašiljača</string>
+    <string name="title_activity_upload">Pošalji podatke</string>
+    <string name="loading">Učitavanje...</string>
 
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Otvori navigacijski meni</string>
+    <string name="navigation_drawer_close">Zatvori navigacijski meni</string>
 
     <string name="title_activity_info">CellMapper</string>
     
     <!-- General -->
     <string name="text_ok">OK</string>
-    <string name="text_disabled">Disabled</string>
-    <string name="text_map">Map</string>
-    <string name="text_cells">Cells</string>
-    <string name="text_uploadandstatistics">Upload and Statistics</string>
-    <string name="text_account">Account</string>
-    <string name="text_help">Help</string>
-    <string name="text_settings">Settings</string>
-    <string name="text_loading">Loading...</string>
-    <string name="text_country">Country</string>
-    <string name="text_network">Network</string>
-    <string name="text_network_type">Network Type</string>
-    <string name="text_current_provider">Current Provider</string>
-    <string name="text_local_data">Local calculated Data</string>
-    <string name="text_bearing">Bearing</string>
-    <string name="text_altitude">Altitude</string>
-    <string name="text_speed">Speed</string>
+    <string name="text_disabled">Onemogućeno</string>
+    <string name="text_map">Karta</string>
+    <string name="text_cells">Ćelije</string>
+    <string name="text_uploadandstatistics">Prenošenje podataka i statistika</string>
+    <string name="text_account">Račun</string>
+    <string name="text_help">Pomoć</string>
+    <string name="text_settings">Postavke</string>
+    <string name="text_loading">Učitavanje...</string>
+    <string name="text_country">Država</string>
+    <string name="text_network">Mreža</string>
+    <string name="text_network_type">Tip mreža</string>
+    <string name="text_current_provider">Trenutni Operater</string>
+    <string name="text_local_data">Lokalno izračunati podaci</string>
+    <string name="text_bearing">Azimut</string>
+    <string name="text_altitude">Visina</string>
+    <string name="text_speed">Brzina</string>
     <string name="text_signal">Signal</string>
-    <string name="text_points">Points</string>
-    <string name="text_towers">Towers</string>
-    <string name="text_airplane_mode">Airplane mode detected!\nPlease disable airplane mode and restart this application.</string>
-    <string name="text_error">Error</string>
+    <string name="text_points">Točke</string>
+    <string name="text_towers">Odašiljači</string>
+    <string name="text_airplane_mode">Zrakoplovni način rada je uključen!\nMolimo isključite zrakoplovni način rada i ponovo pokrenite aplikaciju.</string>
+    <string name="text_error">Greška</string>
 
     <!-- User Screen -->
-    <string name="activity_user_username">Username</string>
-    <string name="activity_user_total_points">Total Points</string>
-    <string name="activity_user_total_cells">Total Cells</string>
-    <string name="activity_user_total_towers_moved">Total Towers Moved</string>
-    <string name="activity_user_error_logging_in">Error Logging In</string>
-    <string name="activity_user_register">Register</string>
-    <string name="activity_user_reset">Reset</string>
-    <string name="activity_user_login_below">Log in below.</string>
+    <string name="activity_user_username">Korisničko ime</string>
+    <string name="activity_user_total_points">Ukupno Točaka</string>
+    <string name="activity_user_total_cells">Ukupno Ćelija</string>
+    <string name="activity_user_total_towers_moved">Ukupno pomaknutih odašiljača</string>
+    <string name="activity_user_error_logging_in">Greška prilikom prijave</string>
+    <string name="activity_user_register">Registracija</string>
+    <string name="activity_user_reset">Resetiranje</string>
+    <string name="activity_user_login_below">Prijavite se ispod.</string>
 
 
     <!-- Main Menu -->
-    <string name="menu_text_aboutlicense">About / License</string>
-    <string name="menu_text_blankscreen">Blank Screen</string>
-    <string name="menu_text_car_mode">Car Mode</string>
-    <string name="menu_text_recorddata">Record Data</string>
-    <string name="menu_text_exit">Exit</string>
+    <string name="menu_text_aboutlicense">O nama / Licence</string>
+    <string name="menu_text_blankscreen">Zacrnjivanje ekrana</string>
+    <string name="menu_text_car_mode">Automobilski način rada</string>
+    <string name="menu_text_recorddata">Snimaj podatke</string>
+    <string name="menu_text_exit">Izlaz</string>
     <!-- Map Screen -->
-    <string name="menu_text_changeprovider">Select Provider</string>
-    <string name="menu_text_changemaptype">Change Map Type</string>
-    <string name="menu_text_open_map_in_brower">Open in Browser</string>
-    <string name="menu_text_filter_bands">Filter Bands</string>
-    <string name="menu_text_filter_tower">Tower Search</string>
+    <string name="menu_text_changeprovider">Odaberi operatera</string>
+    <string name="menu_text_changemaptype">Promijeni tip karte</string>
+    <string name="menu_text_open_map_in_brower">Otvori u pregledniku</string>
+    <string name="menu_text_filter_bands">Filtriraj bendove</string>
+    <string name="menu_text_filter_tower">Pretraživanje odašiljača</string>
 
     <string name="filter_tower_hint">ex. 12345, 00ABA, 0x1234</string>
-    <string name="filter_tower_description">Enter a tower ID in either hex or decimal</string>
-    <string name="select_map_type">Select Map Type</string>
+    <string name="filter_tower_description">Unesite oznaku odašiljača u heksa ili decimalnom obliku</string>
+    <string name="select_map_type">Odabire tip karte</string>
 
 
     <!-- Login Screen -->
-    <string name="activity_login_login_ok">Login OK</string>
-    <string name="activity_login_login_error">Login error</string>
-    <string name="activity_login_not_logged_in">Not logged in</string>
+    <string name="activity_login_login_ok">Prijava OK</string>
+    <string name="activity_login_login_error">Greška prilikom prijave</string>
+    <string name="activity_login_not_logged_in">Niste prijavljeni</string>
 
     
     <!-- Upload Screen -->
-    <string name="activity_upload_helptext">This page is used to upload data if live upload is not enabled.  You can upload your data at any time later on.\n\n</string>
-    <string name="menu_text_uploadnow">Upload Now</string>
-    <string name="menu_text_reupload">Re-Upload</string>
-    <string name="activity_upload_starting">Starting upload...</string>
-    <string name="activity_upload_complete">Upload Complete</string>
-    <string name="activity_upload_choose_start_date">Choose Start Date</string>
-    <string name="activity_upload_choose_end_date">Choose End Date</string>
-    <string name="activity_upload_confirm_reupload">Confirm Reupload</string>
-    <string name="activity_upload_marking_for_reupload">Marking for re-upload</string>
-    <string name="activity_upload_total_uploaded_data_points">Total uploaded data points:</string>
-    <string name="activity_upload_total_points_to_upload">Total points to upload:</string>
-    <string name="activity_upload_date_of_last_point">Date of uploaded data point:</string>
-    <string name="activity_upload_distinct_cells_found">Distinct cells found:</string>
-    <string name="activity_upload_uploading_data_points">Uploading %,d data points</string>
-    <string name="activity_upload_done">Done</string>
-    <string name="activity_upload_reupload_confirm">Are you sure you want to re-upload the data for dates between:\n%1$s\nand\n %2$s\n?\nThis will re-upload  %3$d data points.</string>
+    <string name="activity_upload_helptext">Ova stranica služi za prijenos podataka ako trenutni prijenos podataka nije omogućen.  Možete prijenjeti podatke u bilo kojem trenutku kasnije.\n\n</string>
+    <string name="menu_text_uploadnow">Prenesite sada</string>
+    <string name="menu_text_reupload">Ponovo prenesite</string>
+    <string name="activity_upload_starting">Započinje prijenos podataka...</string>
+    <string name="activity_upload_complete">Prijenos završen</string>
+    <string name="activity_upload_choose_start_date">Odaberite početni datum</string>
+    <string name="activity_upload_choose_end_date">Odaberite kranji datum</string>
+    <string name="activity_upload_confirm_reupload">Potvrdite ponovni prijenos</string>
+    <string name="activity_upload_marking_for_reupload">Označite za ponovni prijenos</string>
+    <string name="activity_upload_total_uploaded_data_points">Ukupno prenesno točaka:</string>
+    <string name="activity_upload_total_points_to_upload">Ukupno točaka za prenjeti:</string>
+    <string name="activity_upload_date_of_last_point">Datum prenesene točke:</string>
+    <string name="activity_upload_distinct_cells_found">Pronađeno jedinstvenih ćelija:</string>
+    <string name="activity_upload_uploading_data_points">Prenošenje %,d točaka</string>
+    <string name="activity_upload_done">Završeno</string>
+    <string name="activity_upload_reupload_confirm">Jeste li sigurni da želite ponovno prenjeti podatke za datume između:\n%1$s\ni\n %2$s\n?\nPonovo ćete prenjeti  %3$d točaka.</string>
 
 
     <!--  Tower Screen -->
-    <string name="tower_screen_lte_tac">Tracking Area Code</string>
-    <string name="tower_screen_umts_lac">Location Area Code</string>
-    <string name="tower_screen_cdma_sid">System ID</string>
-    <string name="tower_screen_located_by">Located By:</string>
-    <string name="tower_screen_first_seen">First Seen</string>
-    <string name="tower_screen_last_seen">Last Seen</string>
+    <string name="tower_screen_lte_tac">Kod Praćenja Područja</string>
+    <string name="tower_screen_umts_lac">Kod Lokacijskog Područja</string>
+    <string name="tower_screen_cdma_sid">Sistemska oznaka</string>
+    <string name="tower_screen_located_by">Locirao:</string>
+    <string name="tower_screen_first_seen">Prvi put viđen</string>
+    <string name="tower_screen_last_seen">Zadnje viđen</string>
 
     
     <!--  Cells Screen -->
-    <string name="cells_screen_gps_fix_too_old">GPS Fix too old</string>
+    <string name="cells_screen_gps_fix_too_old">GPS Fix prestar</string>
     <string name="cells_screen_gps_fix_ok">GPS Fix OK</string>
-    <string name="cells_screen_gps_initializing">GPS Initializing</string>
-    <string name="cells_screen_gps_accuracy">Accuracy</string>
-    <string name="cells_screen_gps_satellites_locked">Satellites Locked</string>
-    <string name="cells_screen_upload_status">Upload Status</string>
-    <string name="cells_screen_wait_for_gps">Wait for GPS</string>
-    <string name="cells_screen_error_retrying">Error, re-trying...</string>
-    <string name="cells_screen_recording_disabled">All data collection disabled</string>
-    <string name="cells_screen_login_status">"Login Status</string>
+    <string name="cells_screen_gps_initializing">GPS inicijaliziranje</string>
+    <string name="cells_screen_gps_accuracy">Preciznost</string>
+    <string name="cells_screen_gps_satellites_locked">Usklađeni sateliti</string>
+    <string name="cells_screen_upload_status">Stanje prijenosa podataka</string>
+    <string name="cells_screen_wait_for_gps">Čekam GPS</string>
+    <string name="cells_screen_error_retrying">Greška, ponavljam..</string>
+    <string name="cells_screen_recording_disabled">Prikupljanje podataka onemogućeno</string>
+    <string name="cells_screen_login_status">"Status prijave</string>
     <string name="cells_screen_status_header">"Status</string>
 
     <string name="cells_screen_gps">GPS</string>
-    <string name="cells_screen_upload">Upload</string>
-    <string name="cells_screen_account">Account</string>
-    <string name="cells_screen_record">Record</string>
+    <string name="cells_screen_upload">Prijenos</string>
+    <string name="cells_screen_account">Račun</string>
+    <string name="cells_screen_record">Prikupljanje</string>
     
     <!-- Preferences -->
-    <string name="preferences_about">About</string>
-    <string name="preferences_main_settings">Main Settings</string>
-    <string name="preferences_version">CellMapper Version</string>
-    <string name="preferences_debug">Debug</string>
+    <string name="preferences_about">O nama</string>
+    <string name="preferences_main_settings">Glavne postavke</string>
+    <string name="preferences_version">CellMapper verzija</string>
+    <string name="preferences_debug">Oklanjanje greška</string>
 
-    <string name="preferences_upload_enabled_title">Enable Instant Upload</string>
-    <string name="preferences_upload_enabled_summary">Enable live uploading to the CellMapper website.  This will use data, but ensure the most accurate results are reported\nYou can always upload recorded data at a later date</string>
+    <string name="preferences_upload_enabled_title">Omogući konstantni prijenos podataka</string>
+    <string name="preferences_upload_enabled_summary">Omogći konstantni prijenos podataka na CellMapper web stranicu.  To će koristiti podatkovni promet, ali će osigurati da se prenesu najprecizniji podaci.\nUvijek možete prenjeti snimljene podatke kasnije</string>
 
-    <string name="preferences_upload_auto_wifi_enabled_title">WiFi Auto Upload</string>
-    <string name="preferences_upload_auto_wifi_enabled_summary">Uploads any new data collected automatically when WiFI is connected</string>
+    <string name="preferences_upload_auto_wifi_enabled_title">Automatski prijenos podataka koristeći WiFi</string>
+    <string name="preferences_upload_auto_wifi_enabled_summary">Automatski prijenos novih podataka kad je spojen WiFi.</string>
 
+    <string name="preferences_cell_change_vibrate_title">Vibriraj na promjenu oznake ćelije</string>
+    <string name="preferences_cell_change_vibrate_summary">Vibriraj prilikom promjene oznake ćelije</string>
     
-    <string name="preferences_cell_change_vibrate_title">Vibrate on Cell ID change</string>
-    <string name="preferences_cell_change_vibrate_summary">Vibrate the phone to notify you of a Cell ID change</string>
+    <string name="preferences_cell_change_sound_enabled_title">Pusti zvuk promjene oznake ćelije</string>
+    <string name="preferences_cell_sound_enabled_summary">Zvučno upozori prilikom promjene oznake ćelije</string>
     
-    <string name="preferences_cell_change_sound_enabled_title">Play notification on Cell ID change</string>
-    <string name="preferences_cell_sound_enabled_summary">Plays a sound on Cell ID change</string>
+    <string name="preferences_start_on_boot_title">Pokreni prilikom pokretanja telefona</string>
+    <string name="preferences_start_on_boot_summary">Automatski pokreni CellMapper prilikom pokretanja telefona</string>
     
-    <string name="preferences_start_on_boot_title">Start on Phone Boot</string>
-    <string name="preferences_start_on_boot_summary">Auto starts CellMapper when your phone boots up</string>
+    <string name="preferences_override_volume_title">Onemogući kontrole zvuka</string>
+    <string name="preferences_override_volume_summary">Onemogući kontrolu zvuka radi prevencije slučajnog pritiska</string>   
+
+    <string name="preferences_use_imperial_title">Koristi imperijalne jedinice</string>
+    <string name="preferences_use_imperial_summary">Prikaži brzinu u MPH umjesto KM/H.  Visinu u FT umjesto M</string>
+
+    <string name="preferences_write_csv_file_title">Kreiraj CSV datoteku</string>
+    <string name="preferences_write_csv_file_summary">Kreiranje CSV datoteke u telefonu s podacima točaka za kasnije korištenje</string>   
     
-    <string name="preferences_override_volume_title">Override Volume Controls</string>
-    <string name="preferences_override_volume_summary">This disables the volume buttons to prevent accidentally pressing them</string>   
-
-    <string name="preferences_use_imperial_title">Display in Imperial Units</string>
-    <string name="preferences_use_imperial_summary">This displays speed in MPH instead of KM/H.  Altitute in FT vs M</string>
-
-    <string name="preferences_write_csv_file_title">Output to CSV file</string>
-    <string name="preferences_write_csv_file_summary">This will create a CSV file in your device storage to record data points for later usage</string>   
+    <string name="preferences_map_settings">Postavke Karte</string>
     
-    <string name="preferences_map_settings">Map Settings</string>
+    <string name="preferences_display_towers_title">Prikaži odašiljače na karti</string>
+    <string name="preferences_display_towers_summary">Prikazuje ili skriva sve odašiljlače na karti</string>   
     
-    <string name="preferences_display_towers_title">Show Towers on Map</string>
-    <string name="preferences_display_towers_summary">Shows or hides all the towers on the map</string>   
+    <string name="preferences_show_low_accuracy_title">Prikaži manje precizne odašiljače</string>
+    <string name="preferences_show_low_accuracy_summary">Prikaži ili sakrij odašiljače koji se smatraju manje precizni zbog nedostatka podataka</string>   
     
-    <string name="preferences_show_low_accuracy_title">Show low accuracy towers</string>
-    <string name="preferences_show_low_accuracy_summary">Shows or hides the towers that are considered low accuracy due to insufficient data</string>   
+    <string name="preferences_advanced_settings">Napredne postavke</string>
     
-    <string name="preferences_advanced_settings">Advanced Settings</string>
-    
-    <string name="preferences_newcellapi_enabled_title">Use new Android 4.2 Cell ID API</string>
-    <string name="preferences_newcellapi_enabled_summary">This will use the new cellid API for Android 4.2 and later.  Unfortunately, most manufacturers (including Google) have not bothered to implement this.  So it most likely wont work.  App restart required.</string>       
+    <string name="preferences_newcellapi_enabled_title">Koristi novi Android 4.2 Cell ID API</string>
+    <string name="preferences_newcellapi_enabled_summary">Koristi novi cellid API za Android 4.2 i kasnije verzije.  Nažalost, većina proizvođača(uključujući Google) nisu implementirali API.  Postoji vjerojatnost da neće raditi. Potrebno ponovo pokrenuti aplikaciju.</string>       
 
-    <string name="preferences_check_gps_age_title">Check GPS age</string>
-    <string name="preferences_check_gps_age_summary">This increases data accuracy when going through tunnels/urban areas.  Uncheck if you see \'GPS Fix too old\' even if it isn\'t</string>       
+    <string name="preferences_check_gps_age_title">Provjeri starost GPS-a</string>
+    <string name="preferences_check_gps_age_summary">Ova opcija povećava preciznost podataka prilikom prolaska kroz tunel ili urbanog područja.  Odznačite ako vidite \'GPS Fix prestar\' kada to i nije.</string>       
 
-    <string name="preferences_record_interval_title">Minimum Recording Interval</string>
-    <string name="preferences_record_interval_summary">The minimum number of seconds between data points</string>       
+    <string name="preferences_record_interval_title">Najmanji interval snimanja</string>
+    <string name="preferences_record_interval_summary">Najmanji broj sekundi između snimanja dvije podatkovne točke</string>       
 
-    <string name="preferences_keep_screen_on_title">Keep Screen On</string>
-    <string name="preferences_keep_screen_on_summary">Can only be disabled when Android 4.2 Cell ID API is enabled.</string>
+    <string name="preferences_keep_screen_on_title">Drži ekran uključenim</string>
+    <string name="preferences_keep_screen_on_summary">Može se isključiti samo kad je Android 4.2 Cell ID API omogućen.</string>
 
-    <string name="preferences_keep_screen_on_brightness_title">Keep Screen On Brightness</string>
-    <string name="preferences_keep_screen_on_brightness_summary">How bright to keep the screen when the phone attempts to go to sleep.</string>
+    <string name="preferences_keep_screen_on_brightness_title">Drži svjetlinu ekrana</string>
+    <string name="preferences_keep_screen_on_brightness_summary">Koliko će jako svjetliti ekran kada se telefon pokuša zaključat.</string>
 
-    <string name="preferences_record_neighbours_title">Record Neighbour Cells</string>
-    <string name="preferences_record_neighbours_summary">Record neighbour cell info.  Very unreliable unless your phone supports > 4.2 CellID API.</string>       
+    <string name="preferences_record_neighbours_title">Snimaj susjedne čelije</string>
+    <string name="preferences_record_neighbours_summary">Snimaj informacije o susjednim ćelijama.  Vrlo nepouzdano ako telefon ne podržava > 4.2 CellID API.</string>       
 
-    <string name="preferences_suppress_errors_title">Suppress Errors</string>
-    <string name="preferences_suppress_errors_summary">This will hide all error popups and dialogs unless they are important.</string>       
+    <string name="preferences_suppress_errors_title">Ukloni obavijesti o greškama</string>
+    <string name="preferences_suppress_errors_summary">Prikazat će se samo važnije greške.</string>       
 
-    <string name="preferences_upload_batch_size_title">Upload Batch Size</string>
-    <string name="preferences_upload_batch_size_summary">Number of data points to upload per request for Upload Later.  Change this to a lower value if upload constantly fails</string>       
+    <string name="preferences_upload_batch_size_title">Veličina grupe podataka za prijenos</string>
+    <string name="preferences_upload_batch_size_summary">Broj točaka u grupi za kasniji prijenos.  Smanjite broj točaka ako prijenos podataka ne uspijeva.</string>       
 
-    <string name="preferences_is_wear_enabled_title">Wear Notifications Enabled</string>
-    <string name="preferences_is_wear_enabled_summary">Controls Android Wear notifications.  Restart of app required.</string>
+    <string name="preferences_is_wear_enabled_title">Omogući notifikacije Android Wear</string>
+    <string name="preferences_is_wear_enabled_summary">Kontrola Android Wear notifikacija.  Potrebno ponovo pokrenuti aplikaciju.</string>
 
-    <string name="preferences_hide_unknown_cells_title">Hide Unknown Cells</string>
-    <string name="preferences_hide_unknown_cells_summary">Hides cells that have unknown CellID on the main screen.</string>
+    <string name="preferences_hide_unknown_cells_title">Sakrij nepoznate ćelije</string>
+    <string name="preferences_hide_unknown_cells_summary">Ne prikazuju se ćelije koje imaju nepoznat CellID na glavnom ekranu.</string>
 
-    <string name="preferences_read_logcat_title">Read logcat for Samsung/Sony Field Test data (root)</string>
-    <string name="preferences_read_logcat_summary">This will read your logcat output to attempt to get Samsung/Sony field test mode data.  Do not enable this if you are using the screen reader method.  On newer phones, field test must run in foreground or dual-window mode.  Requires root for Android 4.1+ and app restart when changed.</string>
+    <string name="preferences_read_logcat_title">Čitaj logcat za Samsung/Sony Field Test podatke (root)</string>
+    <string name="preferences_read_logcat_summary">Ova opcija čita logcat izlaz i pokušava prikupiti Samsung/Sony field test podatke.  Nemojte koristi ovu opciju ako koristite metodu pregleda ekrana.  Na novijim mobitelaima, field test mora biti pokrenut u pozadini ili u dvostruki prozor način rada.  Potreban root za Android 4.1+ i ponovo pokretanje aplikacije.</string>
 
-    <string name="preferences_read_logcat_qualcomm_title">Read Qualcomm LTE data (root)</string>
-    <string name="preferences_read_logcat_qualcomm_summary">This will read from Qualcomm modems the LTE frequency.</string>
+    <string name="preferences_read_logcat_qualcomm_title">Čitaj Qualcomm LTE podatke (root)</string>
+    <string name="preferences_read_logcat_qualcomm_summary">Ova opcija čita LTE frekvenciju iz Qualcomm modema</string>
 
-    <string name="preferences_read_logcat_qualcomm_device_title">Qualcomm modem device</string>
-    <string name="preferences_read_logcat_qualcomm_device_summary">This is the modem device CellMapper will use.  Usually, /dev/smd11.  Restart required.</string>
+    <string name="preferences_read_logcat_qualcomm_device_title">Qualcomm modem uređaj</string>
+    <string name="preferences_read_logcat_qualcomm_device_summary">Ovo je modem uređaj koji će CellMapper koristiti.  Većinom, /dev/smd11.  Potrebno ponovo pokrenuti aplikaciju.</string>
 
 
-    <string name="preferences_estimate_band_title">Estimate Frequency Bands and Bandwidth</string>
-    <string name="preferences_estimate_band_summary">This will contact the server to estimate GSM/UMTS/LTE bands/bandwidths.  Requires a data connection.</string>
+    <string name="preferences_estimate_band_title">Procijeni frekvenciju pojasa i pojasnu širinu</string>
+    <string name="preferences_estimate_band_summary">Ova opcija koristi podatkovni promet za procjenu GSM/UMTS/LTE pojasa/pojasnih širina.</string>
 
 
-    <string name="preferences_show_hex_values_title">Show Hex Values</string>
-    <string name="preferences_show_hex_values_summary">Show hex instead of decimal values for Cell IDs.</string>
+    <string name="preferences_show_hex_values_title">Prikaži Hex vrijednosti</string>
+    <string name="preferences_show_hex_values_summary">Prikaži Hex umjesto decimalnih vrijednosti za Cell IDs.</string>
 
     <!-- Misc errors -->
-    <string name="gps_error_title">GPS Error</string>
-    <string name="gps_error_body">GPS is required for this application to function properly.  Otherwise, some features may be unavailable.</string>
+    <string name="gps_error_title">GPS Greška</string>
+    <string name="gps_error_body">GPS je potreban da  aplikacija funkcionira normalno.  Inače, neke opcije možda neće biti dostupne.</string>
 
-    <string name="map_error_title">Map Error</string>
-    <string name="map_error_body">Your phone does not support Google Maps API v2.  Please visit the site to see your data.</string>
+    <string name="map_error_title">Greška karte</string>
+    <string name="map_error_body">Ovaj telefon ne podržava Google Maps API v2.  Molimo posjetite web stranicu da vidite vaše podatke.</string>
 
     <!-- Rest of prefs -->
-    <string name="preferences_dual_sim_support_title">Dual SIM support</string>
-    <string name="preferences_dual_sim_support_summary">Enable/disable dual SIM support for phones that do not support the 4.2+ CellID API.  Requires app restart.</string>
+    <string name="preferences_dual_sim_support_title">Dual SIM porška</string>
+    <string name="preferences_dual_sim_support_summary">Omogućite/onemogućite dual SIM podršku za telefone koji ne podržavaju 4.2+ CellID API. Potrebno ponovo pokrenuti aplikaciju.</string>
 
-    <string name="preferences_send_debug_title">Send Debug Info</string>
-    <string name="preferences_send_debug_summary">Creates an email to send the developer debug information about your device.  Useful when features are not working on your particular phone.</string>
+    <string name="preferences_send_debug_title">Pošalji podatke za otklanjanje grešaka (debug)</string>
+    <string name="preferences_send_debug_summary">Kreaira se email koji se pošalje developeru s podacima korisnima za otklanjanje grešaka.  Korisno kada neke mogućnosti ne rade na telefonu.</string>
 
 
-    <string name="blank_screen_press_back">Press the back button to exit this screen.</string>
+    <string name="blank_screen_press_back">Pritisnite tipku nazad za izlaz iz ovog ekrana.</string>
 
-    <string name="preferences_record2g_title">Record 2G data</string>
-    <string name="preferences_record2g_summary">Enable/disable recording on 2G (GSM, CDMA) data</string>
+    <string name="preferences_record2g_title">Snimaj 2G podatke</string>
+    <string name="preferences_record2g_summary">Omogući/onemogući snimanje 2G (GSM, CDMA) podataka</string>
 
-    <string name="preferences_record3g_title">Record 3G data</string>
-    <string name="preferences_record3g_summary">Enable/disable recording on 3G (UMTS) data</string>
+    <string name="preferences_record3g_title">Snimaj 3G podatke</string>
+    <string name="preferences_record3g_summary">Omogući/onemogući snimanje 3G (UMTS) podataka</string>
 
-    <string name="preferences_record4g_title">Record 4G data</string>
-    <string name="preferences_record4g_summary">Enable/disable recording on 4G (LTE) data</string>
+    <string name="preferences_record4g_title">Snimaj 4G podatke</string>
+    <string name="preferences_record4g_summary">Omogući/onemogući snimanje 4G (LTE) podataka</string>
 
-    <string name="preferences_enable_geofencing_title">Enable location exclusion (geofencing)</string>
-    <string name="preferences_enable_geofencing_summary">Enable/disable location exclusion when mapping.  Long tap on the map in order to set an area to exclude.  App restart required.</string>
+    <string name="preferences_enable_geofencing_title">Omogući lokacijsko ograničenje (geofencing)</string>
+    <string name="preferences_enable_geofencing_summary">Omogući/onemogući lokacijsko ograničenje prilikom prikupljanja podataka.  Dugo držanje na karti za postavljanje lokacije u kojoj se neće prikupljati podaci.  Potrebno ponovo pokrenuti aplikaciju.</string>
 
-    <string name="preferences_geofencing_radius_title">Geofencing radius (metres)</string>
-    <string name="preferences_geofencing_radius_summary">Sets the exclusion radius for the above setting.  App restart required.</string>
+    <string name="preferences_geofencing_radius_title">Geofencing promjer (metres)</string>
+    <string name="preferences_geofencing_radius_summary">Postavlja se promjer lokacijskog ograničenja.  Potrebno ponovo pokrenuti aplikaciju.</string>
 
-    <string name="preferences_show_cells_with_frequency_only_title">Show cells with frequency data only</string>
-    <string name="preferences_show_cells_with_frequency_only_summary">Shows cells that have a valid ARFCN/EARFCN/UARFCN.</string>
+    <string name="preferences_show_cells_with_frequency_only_title">Prikaži samo ćelije s frekvencijskim podacima</string>
+    <string name="preferences_show_cells_with_frequency_only_summary">Prikazuju se samo ćelije koje imaju ispravne ARFCN/EARFCN/UARFCN podatke.</string>
 
-    <string name="stop_recording">Stop Recording</string>
-    <string name="start_recording">Start Recording</string>
+    <string name="stop_recording">Zaustavi prikupljanje podataka</string>
+    <string name="start_recording">Započni prikupljanje podataka</string>
 
-    <string name="accessibility_description">Reads field test mode app data without root.  Requires 4.2+ CellID API for Samsung devices.</string>
+    <string name="accessibility_description">Pročitaj filed test podatke bez potrebe root pristupa.  Potrebno uključiti 4.2+ CellID API za Samsung uređaje.</string>
     <string name="battery_optimization_error">The Instant Upload feature will not work until "battery optimization" is disabled and CellMapper is running in the background.  To do so, go to Android Settings > Battery > Battery Optimization (under menu) and ensure CellMapper is set to "Not optimized" under "All Apps".</string>
 
 
